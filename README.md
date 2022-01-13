@@ -101,7 +101,7 @@ Check all of them here:
 
 
 | JavaScript / HTML | React |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: |
 | [![Notus PRO Javascript](https://github.com/creativetimofficial/public-assets/blob/master/notus-design-system-pro/notus-design-system-pro.jpg?raw=true)](https://www.creative-tim.com/product/notus-design-system-pro?ref=ndsp-github-readme) | [![Notus PRO React](https://github.com/creativetimofficial/public-assets/blob/master/notus-pro-react/notus-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-pro-react?ref=ndsp-github-readme)  |
 
 
