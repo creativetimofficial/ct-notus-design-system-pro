@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) <a href="https://github.com/creativetimofficial/ct-notus-design-system-pro/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-notus-design-system-pro.svg)</a> <a href="https://github.com/creativetimofficial/ct-notus-design-system-pro/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-notus-design-system-pro.svg)</a>
 
-![Notus Design System PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/notus-pro-react/notus-pro-react.jpg)
+![Notus Design System PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/notus-design-system-pro/notus-design-system-pro.jpg)
 
 Start your development with a premium UI Kit and Admin components library for Tailwind CSS. Let Notus Design System PRO amaze you with its cool features and build tools that will get your project to a whole new level!
 
@@ -80,3 +80,101 @@ Check all of them here:
 - [Blog website sections](https://demos.creative-tim.com/notus-design-system-pro/#blog-id)
 - [E-Commerce website sections](https://demos.creative-tim.com/notus-design-system-pro/#e-commerce-id)
 - [Misc website sections](https://demos.creative-tim.com/notus-design-system-pro/#misc-id)
+
+
+## Table of Contents
+
+* [Versions](#versions)
+* [Documentation](#documentation)
+* [Quick Start](#quick-start)
+* [Browser Support](#browser-support)
+* [Reporting Issues](#reporting-issues)
+* [Licensing](#licensing)
+* [Useful Links](#useful-links)
+* [Resources](#resources)
+* [FREE Versions](#free-versions)
+
+## Versions
+
+
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-design-system-pro?ref=ndsp-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-pro-react?ref=ndsp-github-readme)
+
+
+| JavaScript / HTML | React |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [![Notus PRO Javascript](https://github.com/creativetimofficial/public-assets/blob/master/notus-design-system-pro/notus-design-system-pro.jpg?raw=true)](https://www.creative-tim.com/product/notus-design-system-pro?ref=ndsp-github-readme) | [![Notus PRO React](https://github.com/creativetimofficial/public-assets/blob/master/notus-pro-react/notus-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-pro-react?ref=ndsp-github-readme)  |
+
+
+
+## Documentation
+The documentation for the Notus Design System PRO is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus" target="_blank">website</a>.
+
+## Quick start
+
+- <a href="https://www.creative-tim.com/product/notus-design-system-pro?ref=ndsp-github-readme" target="_blank">Buy from Creative Tim</a>.
+
+## Browser Support
+
+At present, we officially aim to support the last two versions of the following browsers:
+
+| Chrome | Firefox | Edge | Safari | Opera |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
+
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for the Notus Design System PRO. Here are some advices for our users that want to report an issue:
+
+1. Make sure that you are using the latest version of the Notus Design System PRO. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=ndsp-readme" target="_blank">website</a>.
+2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+
+## Licensing
+
+- Copyright 2022 <a href="https://www.creative-tim.com/?ref=ndsp-readme" target="_blank">Creative Tim</a>
+
+- Licensed under <a href="https://www.creative-tim.com/license?ref=ndsp-readme" target="_blank">Creative Tim License</a>
+
+## Useful Links
+
+- <a href="https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w" target="_blank">Tutorials</a>
+- <a href="https://www.creative-tim.com/affiliates/new?ref=ndsp-readme" target="_blank">Affiliate Program</a> (earn money)
+- <a href="http://blog.creative-tim.com/?ref=ndsp-readme" target="_blank">Blog Creative Tim</a>
+- <a href="https://www.creative-tim.com/templates/free?ref=ndsp-readme" target="_blank">Free Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/premium?ref=ndsp-readme" target="_blank">Premium Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/react?ref=ndsp-readme" target="_blank">React Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/angular?ref=ndsp-readme" target="_blank">Angular Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates/vuejs?ref=ndsp-readme" target="_blank">VueJS Products</a> from Creative Tim
+- <a href="https://www.creative-tim.com/templates?ref=ndsp-readme" target="_blank">More products</a> from Creative Tim
+- Check our Bundles <a href="https://www.creative-tim.com/bundles?ref=ndsp-readme" target="_blank">here</a>
+- Check our awesome builder <a href="https://www.creative-tim.com/builder/argon?ref=ndsp-readme" target="_blank">here</a>
+- Check Tailwind Starter Kit, the project behind this product <a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=ndsp-readme" target="_blank">here</a>
+
+### Social Media
+
+Twitter: <a href="https://twitter.com/CreativeTim" target="_blank">https://twitter.com/CreativeTim</a>
+
+Facebook: <a href="https://www.facebook.com/CreativeTim" target="_blank">https://www.facebook.com/CreativeTim</a>
+
+Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dribbble.com/creativetim</a>
+
+Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
+
+
+## Resources
+- Demo: <a href="https://demos.creative-tim.com/notus-design-system-pro/#/?ref=ndsp-readme" target="_blank">https://demos.creative-tim.com/notus-design-system-pro/#/?ref=ndsp-readme</a>
+- Download Page: <a href="https://www.creative-tim.com/product/notus-design-system-pro?ref=ndsp-github-readme" target="_blank">https://www.creative-tim.com/product/notus-design-system-pro</a>
+- Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=ndsp-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=ndsp-readme</a>
+- License Agreement: <a href="https://www.creative-tim.com/license?ref=ndsp-readme" target="_blank">https://www.creative-tim.com/license?ref=ndsp-readme</a>
+- Support: <a href="https://www.creative-tim.com/contact-us?ref=ndsp-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=ndsp-readme</a>
+- Issues: <a href="https://github.com/creativetimofficial/ct-notus-design-system-pro/issues" target="_blank">Github Issues Page</a>
+
+
+## FREE Versions
+
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-angular?ref=ndsp-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-js?ref=ndsp-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-nextjs?ref=ndsp-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-react?ref=ndsp-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/svelte.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-svelte?ref=ndsp-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-notus?ref=ndsp-github-readme)
+
+
+| Angular | JavaScript / HTML | NextJS | React | Svelte | VueJS |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=ndsp-github-readme)  | [![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=ndsp-github-readme)  | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=ndsp-github-readme)  | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=ndsp-github-readme)  | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=ndsp-github-readme)  | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=ndsp-github-readme)
